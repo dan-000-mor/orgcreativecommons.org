@@ -1,0 +1,46 @@
+﻿@font-face {
+  font-family: 'Irish Grover';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv__RK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Koh Santepheap';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/kohsantepheap/v15/gNMdW3p6SJbwyGj2rBZyeOrTjNPmHVw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Koh Santepheap';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtdOEy-kjs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(s/notoserif/v33/ga6saw1J5X9T9RW6j9bNfFIMZhhWnFTyNZIQD1-_FXP0RgnaOg9MYBNLg_cIrq4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url(s/notoserif/v33/ga6saw1J5X9T9RW6j9bNfFIMZhhWnFTyNZIQD1-_FXP0RgnaOg9MYBOshPcIrq4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(s/notoserif/v33/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTx8cP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url(s/notoserif/v33/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZT1eTx8cP.ttf) format('truetype');
+}

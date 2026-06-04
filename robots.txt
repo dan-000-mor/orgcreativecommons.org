@@ -1,0 +1,328 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://orgcreativecommons.org/post-sitemap.xml
+Sitemap: https://orgcreativecommons.org/creatifsitemap.xml
+Sitemap: https://orgcreativecommons.org/newmap1.txt
+
+User-Agent: IntegromeDB
+Disallow: /
+
+User-Agent: Jetbot/1.0
+Disallow: /
+
+User-Agent: larbin
+Disallow: /
+
+User-Agent: linguatools
+Disallow: /
+
+User-Agent: lipperhey
+Disallow: /
+
+User-Agent: LNSpiderguy
+Disallow: /
+
+User-Agent: looksmart
+Disallow: /
+
+User-Agent: magpie-crawler
+Disallow: /
+
+User-Agent: MIIxpc
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: moget/2.1
+Disallow: /
+
+User-Agent: Muscat Ferret
+Disallow: /
+
+User-Agent: NetMechanic
+Disallow: /
+
+User-Agent: Phantom.js bot
+Disallow: /
+
+User-Agent: Pixray-Seeker
+Disallow: /
+
+User-Agent: ProWebWalker
+Disallow: /
+
+User-Agent: proximic
+Disallow: /
+
+User-Agent: Python-urllib
+Disallow: /
+
+User-Agent: purebot
+Disallow: /
+
+User-Agent: rogerbot
+Disallow: /
+
+User-Agent: sistrix
+Disallow: /
+
+User-Agent: SearchmetricsBot
+Disallow: /
+
+User-Agent: SEOMoz
+Disallow: /
+
+User-Agent: sitebot
+Disallow: /
+
+User-Agent: SiteSnagger
+Disallow: /
+
+User-Agent: ShopWiki
+Disallow: /
+
+User-Agent: SMTBot
+Disallow: /
+
+User-Agent: Snoopy
+Disallow: /
+
+User-Agent: Sogou
+Disallow: /
+
+User-Agent: sogou spider
+Disallow: /
+
+User-Agent: Sogou web spider
+Disallow: /
+
+User-Agent: SolomonoBot
+Disallow: /
+
+User-Agent: Sosospider
+Disallow: /
+
+User-Agent: spbot
+Disallow: /
+
+User-Agent: SpiderJack
+Disallow: /
+
+User-Agent: Speedy
+Disallow: /
+
+User-Agent: stalker
+Disallow: /
+
+User-Agent: SurveyBot
+Disallow: /
+
+User-Agent: Teleport
+Disallow: /
+
+User-Agent: Telesoft
+Disallow: /
+
+User-Agent: thesubot
+Disallow: /
+
+User-Agent: thumbshots-de-bot
+Disallow: /
+
+User-Agent: TurnitinBot
+Disallow: /
+
+User-Agent: UnisterBot
+Disallow: /
+
+User-Agent: URL_Spider_Pro
+Disallow: /
+
+User-Agent: WebBandit
+Disallow: /
+
+User-Agent: WebCopier
+Disallow: /
+
+User-Agent: WebSauger
+Disallow: /
+
+User-Agent: WebStripper
+Disallow: /
+
+User-Agent: Website Quester
+Disallow: /
+
+User-Agent: WebZip
+Disallow: /
+
+User-Agent: WebZip/4.0
+Disallow: /
+
+User-Agent: WBSearchBot
+Disallow: /
+
+User-Agent: yacybot
+Disallow: /
+
+User-Agent: YamanaLab-Robot
+Disallow: /
+
+User-Agent: YoudaoBot
+Disallow: /
+
+User-Agent: ZmEu
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: SpiderLing
+Disallow: /
+
+User-Agent: webcrawler
+Disallow: /
+
+User-Agent: Arquivo-web-crawler 
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: IDG/IT
+Disallow: /
+
+User-Agent: Cliqzbot
+Disallow: /
+
+User-Agent: ADmantX
+Disallow: /
+
+User-Agent: MixrankBot
+Disallow: /
+
+User-Agent: Findxbot
+Disallow: /
+
+User-Agent: YetiBOT
+Disallow: /
+
+User-Agent: crawler4j
+Disallow: /
+
+User-Agent: Scrapy
+Disallow: /
+
+User-Agent: metajobbot
+Disallow: /
+
+User-Agent: MegaIndex
+Disallow: /
+
+User-Agent: MegaIndex.ru
+Disallow: /
+
+User-Agent: Qwantify
+Disallow: /
+
+User-Agent: SEOkicks-Robot
+Disallow: /
+
+User-Agent: LCC
+Disallow: /
+
+User-Agent: BDCbot
+Disallow: /
+
+User-Agent: DomainCrawler
+Disallow: /
+
+User-Agent: DomainCrawler/3.0
+Disallow: /
+
+User-Agent: netEstate NE Crawler
+Disallow: /
+
+User-Agent: DomainAppender
+Disallow: /
+
+User-Agent: wiederfreibot
+Disallow: /
+
+User-Agent: wiederfreibot/1.0
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: LLC
+Disallow: /
+
+User-Agent: ltx71
+Disallow: /
+
+User-Agent: Riddler
+Disallow: /
+
+User-Agent: DeuSu
+Disallow: /
+
+User-Agent: linkdexbot
+Disallow: /
+
+User-Agent: ips-agent
+Disallow: /
+
+User-Agent: GarlikCrawler
+Disallow: /
+
+User-Agent: wotbox
+Disallow: /
+
+User-Agent: HybridBot
+Disallow: /
+
+User-Agent: GetIntent Crawler
+Disallow: /
+
+User-Agent: ias_crawler
+Disallow: /
+
+User-Agent: nekstbot
+Disallow: /
+
+User-Agent: linkfluence
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: oBot
+Disallow: /
+
+User-Agent: netseer
+Disallow: /
+
+User-Agent: adbeat_bot
+Disallow: /
+
+User-Agent: LightspeedSystemsCrawler
+Disallow: /
+
+User-Agent: sentibot
+Disallow: /
+
+User-Agent: BUbiNG
+Disallow: /
+
+User-Agent: i4ds-bot
+Disallow: /
+
+User-Agent: Eyeotabot/1.0
+Disallow: /
+
+User-Agent: LumtelBot/1.0
+Disallow: /
